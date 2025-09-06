@@ -1,8 +1,9 @@
 #include <iostream>
 
 int main(){
-    // TODO
-    std::cout << "Hello World!" << std::endl;
+    // Assignment 1
+    std::cout << "Name: Adam Jensen" << std::endl;
+    std::cout << "Github Username: Ajense24" << std::endl;
     
     return 0;
 }
